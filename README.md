@@ -1,4 +1,4 @@
-# s# Secure API Monetization Platform
+#Secure API Monetization Platform
 
 ## Description
 A platform for monetizing APIs with automated user onboarding, usage tracking, dynamic pricing, and AI-powered fraud detection. Built with Gravitee.io, Stripe API, Node.js, and ML models for payment and usage anomaly detection.
